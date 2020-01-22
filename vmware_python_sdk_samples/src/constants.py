@@ -89,10 +89,7 @@ class VMWARE(object):
         {"index": "001", "name": "(GMT-11:00) Midway Island, Samoa"},
         {"index": "002", "name": "(GMT-10:00) Hawaii"},
         {"index": "003", "name": "(GMT-09:00) Alaska"},
-        {
-            "index": "004",
-            "name": "(GMT-08:00) Pacific Time (US and Canada); Tijuana",
-        },
+        {"index": "004", "name": "(GMT-08:00) Pacific Time (US and Canada); Tijuana"},
         {"index": "010", "name": "(GMT-07:00) Mountain Time (US and Canada)"},
         {"index": "013", "name": "(GMT-07:00) Chihuahua, La Paz, Mazatlan"},
         {"index": "015", "name": "(GMT-07:00) Arizona"},
@@ -174,10 +171,7 @@ class VMWARE(object):
         {"index": "265", "name": "(GMT+10:00) Hobart"},
         {"index": "270", "name": "(GMT+10:00) Vladivostok"},
         {"index": "275", "name": "(GMT+10:00) Guam, Port Moresby"},
-        {
-            "index": "280",
-            "name": "(GMT+11:00) Magadan, Solomon Islands, New Caledonia",
-        },
+        {"index": "280", "name": "(GMT+11:00) Magadan, Solomon Islands, New Caledonia"},
         {
             "index": "285",
             "name": "(GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands",

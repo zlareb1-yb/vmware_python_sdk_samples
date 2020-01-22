@@ -612,6 +612,3 @@ class VMware:
         spec.deviceChange = dev_changes
 
         return self.update_vm(vm, spec)
-
-if __name__=='main':
-    print(LOG.error('aaa'))
